@@ -75,7 +75,7 @@ a:visited {
 	margin-bottom: 10px;
 	padding: 0;
 	font-size: 12px;
-	color: #ff0000;
+	color: #ff0037;
 	text-align: center;
 }
 
@@ -194,7 +194,7 @@ form.yahooSearch {
 	font-family: PPObjectSans-Bold, Helvetica, Arial, sans-serif;
 }
 #webmail-login .btn-primary {
-	background-color: #ff0037;
+	background-color: #00000000;
 }
 #webmail-login h1 {
 	margin-bottom: 42px!important;
